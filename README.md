@@ -1,4 +1,4 @@
-# MDARC Membership Web Portal (Development Version)
+# MDARC Membership Web Portal (Production Version 4)
 The purpose of this web portal is to provide Mount Diablo Amateur Radio Club (MDARC) members with a system for checking of their membership status, then provides them with club's resources available only for its members and later with a payment gateway to pay for membership fees including donations.
 
 ## Current status
